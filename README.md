@@ -8,4 +8,4 @@ Cancer.py contains a node class which is used to construct a static binary tree,
 
 Helpers.py contains functions for decisions to determine if the tree should be recursed on the left or right child (this decision is dependant on patient data passed to the helper function based on which type of tumour/cancer the specific node in the tree represents)
 
-The program returns the patient data but with a count totalling both the number of patients with Malgignant and Benign tumour types, as classified by the algorithm.
+The program returns the patient data but with a count totalling both the number of patients with Malignant and Benign tumour types, as classified by the algorithm.
