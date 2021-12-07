@@ -2,7 +2,7 @@
 
 Simple python implementation that demonstrates basic file I/O and binary decision trees.
 
-Program reads in a .csv file containing patient data, and by utilizing a binary tree, classifies patient tumour data in either being Benin or Malignant.
+Program reads in a .csv file containing patient data, and by utilizing a binary tree, classifies patient tumour data in either being Benign or Malignant.
 
 Cancer.py contains a node class which is used to construct a static binary tree, created also in cancer.py
 
